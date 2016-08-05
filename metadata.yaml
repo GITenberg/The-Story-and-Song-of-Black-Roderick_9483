@@ -1,0 +1,27 @@
+_repo: The-Story-and-Song-of-Black-Roderick_9483
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shorter, Dora Sigerson
+    alias: Sigerson, Dora
+    birthdate: 1866
+    deathdate: 1918
+    gutenberg_agent_id: '3072'
+    url: http://www.gutenberg.org/2009/agents/3072
+    wikipedia: http://en.wikipedia.org/wiki/Dora_Sigerson_Shorter
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Religious fiction'
+- !lcsh 'Married people -- Fiction'
+- GITenberg
+title: The Story and Song of Black Roderick
+url: http://www.gutenberg.org/ebooks/9483
